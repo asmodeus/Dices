@@ -1,5 +1,7 @@
+/* @DevDeps */
 var logger = require('logger').logger;
 
+/* @Deps */
 
 function Dice (sides) {
 	sides = parseInt(sides);
