@@ -100,11 +100,8 @@ var ch1 = new Character({
 	}
 });
 
-ch1.setCliche("bajsa", -11);
-ch1.incrementCliche("bajsa");
-ch1.incrementCliche("bajsa");
-ch1.incrementCliche("bajsa");
-ch1.incrementCliche("bajsa");
+ch1.setCliche("fight", -11);
+ch1.incrementCliche("fight");
 
 logger(
 	
